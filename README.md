@@ -1,6 +1,10 @@
-# GamerGodLite Homepage
-Welcome to GamerGodLite Gaming website where you can play simple games online!
-This website is always getting improved so if any new features don't work please be sure to let me know.
-This is an open source website so contributions are always appreciated!
-Link to my Tech Channel: https://www.youtube.com/channel/UCvs_W_xNqCnPiB2pZ42oFrw
+# LightningX Tech Developers Website
+Welcome to LightningX Tech Developers Website where you can run our software on your own devices.
+
+# TechLight Assistant
+Please download the official file for the assistant at: https://github.com/SyntaxSorcererUltimate/TechLight-Assistant
+Please also downlaod the verification file (VerX-Key53636.txt) the key is also included in the official repository and please put in the same folder or directory you put the voice assistant program in.
+
+
+
 
